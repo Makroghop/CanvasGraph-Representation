@@ -56,3 +56,5 @@ ctx.fillText("( 500 , 375 )", 495, 365);
 }
 
 // dots
+ctx.fillRect(0, 0, 3, 3);
+ctx.fillRect(497, 372, 3, 3);
